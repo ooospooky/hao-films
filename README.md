@@ -4,6 +4,10 @@ A portfolio website for Taipei-based editor and director 章皓 (HAO), showcasin
 
 **[→ View Live](https://hao-portfolio-mu.vercel.app/)**
 
+
+<img width="1266" height="678" alt="hao-films" src="https://github.com/user-attachments/assets/6e0c5208-73cf-403e-88c4-8ebf06786b28" />
+
+
 ---
 
 
